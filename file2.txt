@@ -1,2 +1,3 @@
 some text
 fix problem (from branch master)
+text from user1
