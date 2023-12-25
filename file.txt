@@ -1,3 +1,5 @@
 lorem
 Some string
 som string by user2
+
+new string by user1
